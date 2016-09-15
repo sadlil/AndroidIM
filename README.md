@@ -1,16 +1,6 @@
-AndroidIM
-=========
+# androidIM
 
-##Android Instant Messaging Application
-
-###VIL - Very Important Link's
-
-[V-City](http://www.v-city.at)<br/>
-[Demo-App PlayStore](https://play.google.com/store/apps/details?id=at.vcity.androidim)<br/>
-[Installation-Tutorial](https://github.com/Pirngruber/AndroidIM/wiki/Installation-Tutorial)
-
-
-
+## Android Instant Messaging Application Example
 
 ###Features
 
@@ -40,7 +30,7 @@ AndroidIM
         
     Android APP:
         set AUTHENTICATION_SERVER_ADDRESS in socketOperator, it must be the address where server folder are located,
-        for our example it is http://192.168.7.5/android-im/ (don't use localhost)
+        for our example it is http://<ServerIP>/android-im/ (don't use localhost)
         
     Then run your application in Eclipse with ADT plugin.
     it can be learned how to install Android SDK and ADT plugin.
